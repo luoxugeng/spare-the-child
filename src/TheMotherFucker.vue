@@ -1,8 +1,8 @@
 <template>
     <div id="theMotherFucker">
         <div class="mv5">
-            <div ref="mapbox" style="width:50%;height:600px;float:left;"></div>
-            <blockquote class="white  f3 w-40 teko-body  center db mv5" style="width:50%;height:600px;float:left;">施虐者的判决情况是怎么样的呢?
+            <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
+            <blockquote class="white  f3 w-40 teko-body  center db mv5" style="width:100%;height:600px;float:left;">施虐者的判决情况是怎么样的呢?
                 <br><br>
                 <ol type="1" class="white teko-body f3 w-80 w-90-ns center db mv5">
                     <li>总体来看，有45%的人量刑是小于3年</li><br><br>
@@ -21,7 +21,7 @@
     import echarts from "echarts";
     const option = {
         title: {
-            text: '2019年-施虐者-入狱时长分布',
+            text: '2019年-被告人-入狱时长分布',
             left : '10%',
             top : '10%',
             textStyle:{

@@ -5,8 +5,8 @@
             <p class="white georgia f3 lh-copy measure center db mv3">
                我这边获取到2019年关于强奸和猥亵的判决文书，最后有2455篇.我对文书的处理方式很简单粗暴: 一篇篇阅读,同时尝试寻找模式提高效率.下面对结果进行呈现.
             </p>
-            <div ref="mapbox" style="width:50%;height:600px;float:left;"></div>
-            <blockquote class="white  f3 w-80 teko-body  center db mv5"  style="width:50%;height:600px;float:left;">对于受害者<br>
+            <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
+            <blockquote class="white  f3 w-80 teko-body  center db mv5"  style="width:100%;height:600px;float:left;">对于受害者<br>
                 <ol type="1" class="white teko-body f3 w-80 w-90-ns center db mv5">
                     <li>如图,各个年龄阶段都存在被侵害的可能.施虐者不会因为对方'年纪小'而放过.</li><br><br>
                     <li>有 854 个受害者不止一次收到侵害.也就是说，有34%的性侵害是带有持续性的 </li><br><br>

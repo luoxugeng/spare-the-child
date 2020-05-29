@@ -2,14 +2,14 @@
     <div id="totalCriminalRecord">
         <h1 class="f-subheadline lh-title teko w-90 w-60-ns mv6 center tc" style="color: red;">记录数</h1>
         <div class="mv5">
-            <div ref="mapbox" style="width:50%;height:600px;float:left;"></div>
-            <div class="w-100 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy   dib v-top" style="width:50%;height:600px;float:left;">
-                <p class="measure">如图是文书网,获取到过去五年的 强奸儿童和猥亵儿童各自的记录数量.一年数据量级是2000~3000,但是,按我前面说的，当事人可以以隐私为由,申请文书不公开.案件总体数量是偏少的.
+            <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
+            <div class="w-100 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy   dib v-top" style="width:100%;height:600px;float:left;">
+                <p class="measure center">如图是文书网,获取到过去五年的 强奸儿童和猥亵儿童各自的记录数量.一年数据量级是2000~3000,但是,按我前面说的，当事人可以以隐私为由,申请文书不公开.案件总体数量是偏少的.
                 </p>
-                <p class="measure">问题是,少了多少呢？我在这里引用另一个数据，也是来自政府网站2020年5月的数据:
+                <p class="measure center">问题是,少了多少呢？我在这里引用另一个数据，也是来自政府网站2020年5月的数据:
                     <a href="https://www.spp.gov.cn/spp/zdgz/202005/t20200514_460970.shtml" style="color: aqua;">最高检：去年前11个月起诉性侵害未成年人犯罪约2万人</a>
                 </p>
-                <p class="measure" >也就是说，2019年前11个月，最高检报道因性侵害未成年人而被起诉的人有两万，但一整年下来，最后判决强奸的数量只有1298. 两边都是政府官网提供的数据,却相差一个数量级.两个数据之间的缺口,意味着什么？ </p>
+                <p class="measure center" >也就是说，2019年前11个月，最高检报道因性侵害未成年人而被起诉的人有两万，但一整年下来，最后判决强奸的数量只有1298. 两边都是政府官网提供的数据,却相差一个数量级.两个数据之间的缺口,意味着什么？ </p>
             </div>
         </div>
     </div>
