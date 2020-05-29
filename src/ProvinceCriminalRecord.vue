@@ -1,9 +1,9 @@
 <template>
     <div id="provinceCriminalRecord">
-        <div class="mv5">
-            <div ref="mapbox" class="w-50-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy  dib v-top" style="height:600px;float:left;"></div>
-            <div class="w-50-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy  dib v-top" style="height:600px;float:left;">
-                <p class="measure">2019年的记录细分到每个省如图.按案件的 绝对数量 进行染色的.但很明显，我忽略了每个省份的人口，省份面积差距都很大.只用绝对值不合适.</p>
+        <div class="mv5 center">
+            <div ref="mapbox" class="w-100-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy center  dib v-top" style="height:600px;float:left;"></div>
+            <div class=" center w-100-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy  dib v-top" style="height:600px;float:left;">
+                <p class="white georgia f3 lh-copy measure center db mv3  ">2019年的记录细分到每个省如图.按案件的 绝对数量 进行染色的.但很明显，我忽略了每个省份的人口，省份面积差距都很大.只用绝对值不合适.</p>
             </div>
         </div>
 

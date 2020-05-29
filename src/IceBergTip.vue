@@ -10,7 +10,7 @@
 <!--            <div class="w-50-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy  dib v-top" style="height:600px;float:left;">-->
             <p class="white teko-body f3 w-100    db mv5" > 这是来自美国<a href="https://www.rainn.org/statistics/criminal-justice-system" style="color: aqua">司法系统</a>的统计数据:
                 每<a style="color: red">1000个</a>宗性侵受害者里,只有<a style="color: red">230</a>会报案,<a style="color: red">46</a>个人被捕,<a style="color: red">9人</a>被起诉,<a style="color: red">5人</a>被判刑,<a style="color: red">4.6人</a>进监狱.<br><br>
-               <a>也就是说，从侵害到选择报案，已经有75%沉入黑暗. <a style="color: red">社会需要对受害者包容，让她们更有勇气</a></a><br>
+               <a>也就是说，从侵害到选择报案，已经有75%的被害人选择默默忍受. <a style="color: red">社会需要对受害者包容，让她们更有勇气</a></a><br>
                 <a href="https://zhuanlan.zhihu.com/p/41232930" style="color: aqua"> 儿童保护制度建设研究：目标、策略与路径:书中根据中国数次局部综合分析，认为中国受到多种形式性侵犯的未成年人在10%以上,其中插入式性侵犯约为1%，与世界平均水平持平。</a><br>
                 <a href="https://m.chinanews.com/wap/detail/zw/gn/2020/04-16/9158342.shtml" style="color: aqua">2020年4月16日,最高检：今年前三月起诉性侵未成年人犯罪4151人</a><br><br>
                 <a style="color: red"> 即使报案了,走到判决结果下来，也可能也是个漫长的过程.</a>在我这个项目进行时,再次出现了<a href="" style="color: aqua">大头奶粉</a>事件，我尝试搜索一下当年<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A5%B6%E5%88%B6%E5%93%81%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6"  style="color: aqua"> 三聚氰胺毒奶粉 </a>事件.<br>
