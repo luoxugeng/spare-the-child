@@ -19,7 +19,7 @@
             <p class="white teko-body   w-100 f2   db mv5 center tc"  style="color: red"> 社会需要对受害者关怀，而不是二次伤害,这样她们或许才更有勇气站出来 </p>
             <p class="white teko-body   w-100  f2 db mv5 center tc"  style="color: red"> 正义要得到伸张，法律上应该要更有所作为 </p>
         </div>
-        <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
+        <div ref="mapbox" style="width:100%;height:900px;float:left;"></div>
     </div>
 </template>
 
