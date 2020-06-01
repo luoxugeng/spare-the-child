@@ -4,7 +4,7 @@
         <div class="mv5">
             <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
             <blockquote class="white  f3 w-100 teko-body  center db mv5" style="width:100%;height:600px;float:left;">要强调的是,法律上有减刑的存在.但我之前一直不说. 在文书网使用关键字 "未成年人 儿童 幼女 猥亵 强奸" 组合搜索,2019年能得到的文书数量实际是 <strong> 4818 </strong>篇,前文说的 2455 只是有效判决.剩下的 2363 篇其实是关于减刑的.
-                <ol type="1" class="white teko-body f3 w-100 w-90-ns  db mv5">
+                <ol type="1" class="white teko-body  w-100 w-90-ns  db mv5">
                     <li>只从数字来看，入狱后不惹事，减刑6个月似乎是一件大概率的事情</li>
                     <li>减刑的理由一般是: <i> 能认罪悔罪，遵守监规纪律，积极劳动 </i> </li>
                 </ol>

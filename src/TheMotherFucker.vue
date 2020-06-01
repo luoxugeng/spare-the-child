@@ -6,7 +6,7 @@
                 下面是被告者最后判决的入狱时长.
             </p>
             <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
-            <blockquote class="white  f3 w-40 teko-body  center db mv5" style="width:100%;height:600px;float:left;">
+            <blockquote class="white  f3 w-100 w-90-ns teko-body  center db mv5" style="width:100%;height:600px;float:left;">
                 <ol type="1" class="white teko-body f3 w-100 w-90-ns center db mv5">
                     <li>总体来看，有45%的人量刑是小于3年</li><br><br>
                     <li>判决了3年(36个月)人最多，有202个人.</li><br><br>
