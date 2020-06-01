@@ -23,11 +23,11 @@
     <p class="white georgia f3 lh-copy measure center db mv3">
       在展示数据之前，我们先看一下 <a href="http://www.npc.gov.cn/wxzl/wxzl/2000-12/17/content_4680.htm" style="color: aqua">中国刑法</a>第236条和第237条对强奸罪和猥亵罪的定义
     </p>
-    <ol type="a"  class="white teko-body f3 w-80 w-60-ns center db mv5">
+    <ol type="a"  class="white teko-body f3 w-100 w-60-ns center db mv5">
       <li>刑法第二百三十七条规定：猥亵罪，是以暴力、胁迫或者其他方法强制猥亵他人或者侮辱妇女的，处五年以下有期徒刑或者拘役.聚众或者在公共场所当众犯前款罪的，或者有其他恶劣情节的，处五年以上有期徒刑.猥亵儿童的，依照前两款的规定从重处罚</li>
       <li>刑法第二百三十六条规定：强奸罪，是指违背妇女意志，使用暴力、胁迫或者其他手段，强行与妇女发生性交的行为；或者故意与不满14周岁的幼女发生性关系的行为</li>
     </ol>
-    <blockquote class="white teko-body f3 w-80 w-60-ns center db mv5">两者的主要区别在于<br><br>
+    <blockquote class="white teko-body f3 w-100 w-60-ns center db mv5">两者的主要区别在于<br><br>
       <ol type="1">
         <li>猥亵儿童是指以追求刺激或满足性欲为目的，用性交以外的方式(双方没有生殖器的接触)对未满十四周岁的儿童实施的淫秽行为，一般包括包括抠摸、舌舔、吮吸、亲吻、手淫、鸡奸等行为方式</li>
         <li>猥亵的对象可以是男男，男女， 女女，女男</li>
@@ -37,7 +37,7 @@
         <li>强奸罪的法定最低刑为三年有期徒刑，最高刑则为死刑</li>
       </ol>
     </blockquote>
-    <blockquote class="white teko-body f3 w-80 w-60-ns center db mv5">针对上面的法律定义，争论比较多的有两个<br><br>
+    <blockquote class="white teko-body f3 w-100 w-60-ns center db mv5">针对上面的法律定义，争论比较多的有两个<br><br>
       <ol type="1">
         <li> 故意与不满14周岁的幼女发生性关系的行为一律当作强奸.但当受害者在受害者在13，14岁或者长得比较成熟时，被告方会有辩论空间:"不知道对方未满14岁".</li>
         <li> 法律是针对性别进行审判的，一个事实是，同性之间(通常是男性对男童的施虐)现在只能当作猥亵儿童罪或者故意伤害罪处理.</li>

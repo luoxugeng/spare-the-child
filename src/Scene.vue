@@ -4,10 +4,10 @@
         <div class="mv5">
             <p class="white georgia f3 lh-copy measure center db mv3">接下来,我们深入案发场景,看看到底发生了什么.重要的是，结果是否能给我们启示，
                 让我们以后能做一些预防工作.需要说明的是，不是所有案件都有明确的场景描述.在2455篇判决中,我找出 1248 篇有场景描述.里面有一些词汇出现频率异常的高</p>
-            <div ref="mapbox"  class="white teko-body f3 w-80 w-90-ns center db mv5" style="width:100%;height:600px;float:left;"></div>
-            <blockquote class="white  f3 w-80 teko-body  center db mv5" >
+            <div ref="mapbox"  class="white teko-body f3 w-100 w-90-ns center db mv5" style="width:100%;height:600px;float:left;"></div>
+            <blockquote class="white  f3 w-100 teko-body  center db mv5" >
 
-                <ol type="1" class="white teko-body f3 w-80 w-90-ns center db mv5"> 被告人的身份通常是: 网友(135起), 老师(96起),邻居(67起) ,继父/母亲同居男友(43起),亲戚(23起) <br><br>
+                <ol type="1" class="white teko-body f3 w-100 w-90-ns center db mv5"> 被告人的身份通常是: 网友(135起), 老师(96起),邻居(67起) ,继父/母亲同居男友(43起),亲戚(23起) <br><br>
                     <li> 我们常常说，强奸通常是熟人作案.这种说法不大准确。</li><br>
                     <li>准确的说法是，拥有跟潜在被害人频繁接触的人.这种接触可以是物理位置上的,也可以是网络上的. </li><br><br>
                     <li> 网友(135起)里面,有113个案子是通过QQ认识的,其中53个会在网络中确立男女朋友关系.约出来见面后, 一般都以在宾馆中强奸为终.</li>
@@ -20,7 +20,7 @@
                     <li> 来自亲生父亲的伤害有25起,亲爷爷有1起,亲戚23起 </li>
 
                 </ol>
-                <ol type="1" class="white teko-body f3 w-80 w-90-ns center db mv5">被告人的身份,其实已经暗含了作案地点<br><br>
+                <ol type="1" class="white teko-body f3 w-100 w-90-ns center db mv5">被告人的身份,其实已经暗含了作案地点<br><br>
                     <li>作案地点Top5是: 被害人家中,被告人住所,学校, 家和学校来回的路上, KTV </li><br><br>
                     <li>被告人能在被害人家中得逞的一个最大的原因是: 被害人独自一个人在家. </li><br>
                     <li>只要没有大人在场,小孩人数再多也算单独一人. 一个有不轨念头的大人,小孩子们挡不住的. </li><br><br>
@@ -37,8 +37,8 @@
         <div class="mv5">
             <p class="white georgia f3 lh-copy measure w-90-ns center db mv3">当一件事情有较大概率发生的时候,当坑大概率就在那里的时候，为什么不躲开？
                 只要我们还在这个社会,跟人有联系，有时候意外就是会发生. 但有35%的施虐是带有持续性的,当侵害无法避免，至少让这个过程不是持续性的</p>
-            <blockquote class="white  f3 w-80 teko-body  center db mv5" >
-                <ol type="1" class="white teko-body f3 w-80 w-90-ns center db mv5"><br>
+            <blockquote class="white  f3 w-100 teko-body  center db mv5" >
+                <ol type="1" class="white teko-body f3 w-100 w-90-ns center db mv5"><br>
                     <li>不要让你的小孩单独一个人: 单独一个人在家，单独在小区,商场空地上玩,单独去陌生人的家 </li><br>
                     <li>想办法让你的孩子不会因为糖果,可爱的宠物 等等而跟陌生的叔叔走.</li>
                     <li>让孩子远离喝醉酒的人</li>

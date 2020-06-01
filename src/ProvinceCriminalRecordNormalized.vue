@@ -1,7 +1,8 @@
 <template>
     <div id="provinceCriminalRecordNormalized">
         <div class="mv5 center" >
-            <div ref="mapbox" class="w-100-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy center dib v-top" style="height:600px;float:left;"></div>
+            <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
+<!--            <div ref="mapbox" class="w-100-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy center dib v-top" style="height:600px;float:left;"></div>-->
             <div class="w-100-l h-25 w-40-ns ml-0 ml-5-ns white georgia f4 lh-copy  center dib v-top" style="height:600px;float:left;">
                 <p class="white georgia f3 lh-copy measure center db mv3">
                     当我们考虑了人口密度, 使用<a href="https://zh.wikipedia.org/wiki/%E7%8A%AF%E7%BD%AA%E7%8E%87" style="color: aqua;">犯罪率(每十万人潜在受害者数)</a>的口径计算, 分布如图.

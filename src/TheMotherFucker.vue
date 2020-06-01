@@ -1,10 +1,13 @@
 <template>
     <div id="theMotherFucker">
+        <h1 class="f-subheadline lh-title teko w-90 w-60-ns mv6 center tc" style="color: red;">施虐者量刑时长</h1>
         <div class="mv5">
+            <p class="white georgia f3 lh-copy measure center db mv3">
+                下面是被告者最后判决的入狱时长.
+            </p>
             <div ref="mapbox" style="width:100%;height:600px;float:left;"></div>
-            <blockquote class="white  f3 w-40 teko-body  center db mv5" style="width:100%;height:600px;float:left;">施虐者的判决情况是怎么样的呢?
-                <br><br>
-                <ol type="1" class="white teko-body f3 w-80 w-90-ns center db mv5">
+            <blockquote class="white  f3 w-40 teko-body  center db mv5" style="width:100%;height:600px;float:left;">
+                <ol type="1" class="white teko-body f3 w-100 w-90-ns center db mv5">
                     <li>总体来看，有45%的人量刑是小于3年</li><br><br>
                     <li>判决了3年(36个月)人最多，有202个人.</li><br><br>
                     <li>为什么是3年,我的一个解释是: 这是强奸罪的最低量刑. </li><br><br>
