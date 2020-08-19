@@ -1,0 +1,474 @@
+{
+  "data": {
+    "list": [
+      {
+        "name": "被害人独自一人",
+        "weight": 140
+      },
+      {
+        "name": "QQ认识",
+        "weight": 118
+      },
+      {
+        "name": "老师",
+        "weight": 96
+      },
+      {
+        "name": "学校老师",
+        "weight": 59
+      },
+      {
+        "name": "辅导班老师",
+        "weight": 38
+      },
+      {
+        "name": "被害人家中",
+        "weight": 85
+      },
+      {
+        "name": "醉酒",
+        "weight": 73
+      },
+      {
+        "name": "邻居",
+        "weight": 67
+      },
+      {
+        "name": "被带到宾馆",
+        "weight": 58
+      },
+      {
+        "name": "男女朋友关系",
+        "weight": 54
+      },
+      {
+        "name": "被告人住所",
+        "weight": 52
+      },
+      {
+        "name": "继父/母亲同居男友",
+        "weight": 43
+      },
+      {
+        "name": "裸照威胁",
+        "weight": 32
+      },
+      {
+        "name": "亲女儿",
+        "weight": 26
+      },
+      {
+        "name": "单独相处",
+        "weight": 18
+      },
+      {
+        "name": "亲戚",
+        "weight": 18
+      },
+      {
+        "name": "同学的父亲",
+        "weight": 15
+      },
+      {
+        "name": "趁父母不在",
+        "weight": 14
+      },
+      {
+        "name": "尾随",
+        "weight": 14
+      },
+      {
+        "name": "利用被害人有智力障碍",
+        "weight": 14
+      },
+      {
+        "name": "怀孕",
+        "weight": 14
+      },
+      {
+        "name": "超市",
+        "weight": 12
+      },
+      {
+        "name": "使用暴力胁迫",
+        "weight": 11
+      },
+      {
+        "name": "快手认识",
+        "weight": 10
+      },
+      {
+        "name": "网吧认识",
+        "weight": 10
+      },
+      {
+        "name": "摩的",
+        "weight": 10
+      },
+      {
+        "name": "学校门卫",
+        "weight": 9
+      },
+      {
+        "name": "同屋居住",
+        "weight": 8
+      },
+      {
+        "name": "餐厅",
+        "weight": 7
+      },
+      {
+        "name": "电梯",
+        "weight": 7
+      },
+      {
+        "name": "厕所",
+        "weight": 7
+      },
+      {
+        "name": "宠物引诱",
+        "weight": 7
+      },
+      {
+        "name": "放学回家路上",
+        "weight": 10
+      },
+      {
+        "name": "抖音认识",
+        "weight": 6
+      },
+      {
+        "name": "留守儿童",
+        "weight": 6
+      },
+      {
+        "name": "诱骗",
+        "weight": 5
+      },
+      {
+        "name": "金钱引诱",
+        "weight": 5
+      },
+      {
+        "name": "上学路上",
+        "weight": 4
+      },
+      {
+        "name": "亲孙女",
+        "weight": 8
+      },
+      {
+        "name": "商场",
+        "weight": 4
+      },
+      {
+        "name": "网络认识",
+        "weight": 5
+      },
+      {
+        "name": "学校",
+        "weight": 4
+      },
+      {
+        "name": "公交车",
+        "weight": 6
+      },
+      {
+        "name": "幼儿园",
+        "weight": 4
+      },
+      {
+        "name": "零食引诱",
+        "weight": 4
+      },
+      {
+        "name": "理发店",
+        "weight": 3
+      },
+      {
+        "name": "见面",
+        "weight": 3
+      },
+      {
+        "name": "寄住关系",
+        "weight": 11
+      },
+      {
+        "name": "送外卖",
+        "weight": 2
+      },
+      {
+        "name": "送快递",
+        "weight": 2
+      },
+      {
+        "name": "小区保安",
+        "weight": 2
+      },
+      {
+        "name": "小区门卫",
+        "weight": 2
+      },
+      {
+        "name": "电子游戏",
+        "weight": 2
+      },
+      {
+        "name": "游泳池",
+        "weight": 2
+      },
+      {
+        "name": "网友",
+        "weight": 2
+      },
+      {
+        "name": "公园",
+        "weight": 2
+      },
+      {
+        "name": "女厕所",
+        "weight": 3
+      },
+      {
+        "name": "汽车",
+        "weight": 2
+      },
+      {
+        "name": "以辅导功课为理由",
+        "weight": 4
+      },
+      {
+        "name": "超市老板",
+        "weight": 2
+      },
+      {
+        "name": "离家出走",
+        "weight": 2
+      },
+      {
+        "name": "哄骗",
+        "weight": 2
+      },
+      {
+        "name": "棋牌室",
+        "weight": 2
+      },
+      {
+        "name": "母亲同事",
+        "weight": 2
+      },
+      {
+        "name": "图书馆",
+        "weight": 2
+      },
+      {
+        "name": "威胁伤害其父母",
+        "weight": 1
+      },
+      {
+        "name": "舅舅",
+        "weight": 1
+      },
+      {
+        "name": "朋友家中",
+        "weight": 1
+      },
+      {
+        "name": "小区",
+        "weight": 1
+      },
+      {
+        "name": "小卖部",
+        "weight": 1
+      },
+      {
+        "name": "堕胎",
+        "weight": 1
+      },
+      {
+        "name": "外公",
+        "weight": 1
+      },
+      {
+        "name": "洗浴中心附近",
+        "weight": 1
+      },
+      {
+        "name": "夜不归宿",
+        "weight": 1
+      },
+      {
+        "name": "借宿",
+        "weight": 1
+      },
+      {
+        "name": "大伯",
+        "weight": 1
+      },
+      {
+        "name": "中医诊所",
+        "weight": 3
+      },
+      {
+        "name": "爷爷",
+        "weight": 1
+      },
+      {
+        "name": "强迫卖淫",
+        "weight": 1
+      },
+      {
+        "name": "儿子女朋友",
+        "weight": 1
+      },
+      {
+        "name": "商场门口",
+        "weight": 1
+      },
+      {
+        "name": "KTV",
+        "weight": 16
+      },
+      {
+        "name": "陌生人",
+        "weight": 1
+      },
+      {
+        "name": "陌陌认识",
+        "weight": 1
+      },
+      {
+        "name": "潜入女生宿舍",
+        "weight": 1
+      },
+      {
+        "name": "停车场保安",
+        "weight": 1
+      },
+      {
+        "name": "停车库",
+        "weight": 1
+      },
+      {
+        "name": "赠送游戏道具",
+        "weight": 1
+      },
+      {
+        "name": "学校小卖部",
+        "weight": 1
+      },
+      {
+        "name": "学校附近",
+        "weight": 1
+      },
+      {
+        "name": "学校宿舍",
+        "weight": 1
+      },
+      {
+        "name": "学校工作人员",
+        "weight": 1
+      },
+      {
+        "name": "学校门口",
+        "weight": 1
+      },
+      {
+        "name": "学校班主任",
+        "weight": 1
+      },
+      {
+        "name": "学校班车司机",
+        "weight": 1
+      },
+      {
+        "name": "车库",
+        "weight": 1
+      },
+      {
+        "name": "偷偷进入学校",
+        "weight": 1
+      },
+      {
+        "name": "幼儿园守卫",
+        "weight": 1
+      },
+      {
+        "name": "长途客车",
+        "weight": 1
+      },
+      {
+        "name": "互联网",
+        "weight": 1
+      },
+      {
+        "name": "探探认识",
+        "weight": 2
+      },
+      {
+        "name": "接送被害人的便利",
+        "weight": 1
+      },
+      {
+        "name": "微信好友",
+        "weight": 6
+      },
+      {
+        "name": "足疗店",
+        "weight": 1
+      },
+      {
+        "name": "暴力",
+        "weight": 1
+      },
+      {
+        "name": "家门口玩耍",
+        "weight": 1
+      },
+      {
+        "name": "麻将馆",
+        "weight": 1
+      },
+      {
+        "name": "妻子妹妹",
+        "weight": 3
+      },
+      {
+        "name": "宿舍门卫",
+        "weight": 1
+      },
+      {
+        "name": "旅馆",
+        "weight": 1
+      },
+      {
+        "name": "姐姐男朋友",
+        "weight": 1
+      },
+      {
+        "name": "比赛辅导员",
+        "weight": 1
+      },
+      {
+        "name": "高铁上",
+        "weight": 1
+      },
+      {
+        "name": "保姆男朋友",
+        "weight": 1
+      },
+      {
+        "name": "早餐店",
+        "weight": 1
+      },
+      {
+        "name": "路边的摩的",
+        "weight": 1
+      },
+      {
+        "name": "诱骗手机发裸照",
+        "weight": 1
+      }
+    ]
+  }
+}
